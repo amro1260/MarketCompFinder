@@ -173,14 +173,6 @@ def extract_clean_text_from_related_urls(base_url):
     return extracted_texts
 
 
-# In[12]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
