@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[11]:
-
-
 from bs4 import BeautifulSoup
 import urllib3
 from urllib.error import HTTPError
