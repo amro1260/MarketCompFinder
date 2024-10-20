@@ -1,6 +1,6 @@
 
 # Business Competitors Finder using HTML Data
-This project focuses on identifying and analyzing potential business competitors by extracting and processing textual data from their websites. Using web scraping and natural language processing (NLP), the system identifies relevant competitors by comparing the content of different company websites. The project implements Latent Dirichlet Allocation (LDA) for topic modeling, allowing users to analyze and compare topics across various competitors' websites.
+This project idea focuses on identifying and analyzing potential business competitors by extracting and processing textual data from their websites. Using web scraping and natural language processing (NLP), the system identifies relevant competitors by comparing the content of different company websites. The project implements Latent Dirichlet Allocation (LDA) for topic modeling, allowing users to analyze and compare topics across various competitors' websites.
 
 ## Features
 Competitor URL Finder: Automatically search for and identify URLs related to a business domain or industry.
