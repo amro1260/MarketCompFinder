@@ -24,3 +24,5 @@ Topics from each competitor are compared to identify similarities and difference
 
 ### Document Similarity:
 Measure the similarity between competitors using Cosine Similarity and Jaccard Similarity to quantify the overlap in content.
+
+##initial concept and is not yet a complete project##
